@@ -28,13 +28,14 @@ Frontend / Full-Stack Web Developer focused on building clean, functional user i
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumit23-bot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sumit Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit23-bot&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumit23-bot&theme=tokyonight" alt="GitHub Profile Details" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumit23-bot&theme=tokyonight" alt="Languages Used" width="49%" />
 </p>
 
-### 📈 Contribution Graph
+### 📈 Contribution Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit23-bot&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="97%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumit23-bot&theme=tokyonight" alt="Overall Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumit23-bot&theme=tokyonight" alt="Productive Time" width="49%" />
 </p>
