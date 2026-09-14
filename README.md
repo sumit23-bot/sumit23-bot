@@ -28,14 +28,4 @@ Frontend / Full-Stack Web Developer focused on building clean, functional user i
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumit23-bot&theme=tokyonight" alt="GitHub Profile Details" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumit23-bot&theme=tokyonight" alt="Languages Used" width="49%" />
-</p>
 
-### 📈 Contribution Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumit23-bot&theme=tokyonight" alt="Overall Stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumit23-bot&theme=tokyonight" alt="Productive Time" width="49%" />
-</p>
